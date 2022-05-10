@@ -1,0 +1,153 @@
+CRITICAL - 2022-05-08 22:22:48 --> Undefined variable $misUsuarios
+#0 C:\xampp\htdocs\trabajoFinal\app\Views\tablas\usuarios\usuarios.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\trabajoFinal\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\trabajoFinal\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\trabajoFinal\system\Common.php(1089): CodeIgniter\View\View->render('tablas/usuarios...', Array, true)
+#4 C:\xampp\htdocs\trabajoFinal\app\Controllers\Usuarios.php(51): view('tablas/usuarios...')
+#5 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(832): App\Controllers\Usuarios->eliminarUsuario('1010403910608')
+#6 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\trabajoFinal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-08 22:58:17 --> Undefined variable $codigo
+#0 C:\xampp\htdocs\trabajoFinal\app\Controllers\Usuarios.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 79)
+#1 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(832): App\Controllers\Usuarios->formularioActualizarUsuario('2186078140101')
+#2 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\trabajoFinal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 23:03:36 --> Undefined variable $codigo
+#0 C:\xampp\htdocs\trabajoFinal\app\Controllers\Usuarios.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 79)
+#1 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(832): App\Controllers\Usuarios->formularioActualizarUsuario('1009916131106')
+#2 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\trabajoFinal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 23:06:59 --> Undefined variable $codigo
+#0 C:\xampp\htdocs\trabajoFinal\app\Controllers\Usuarios.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 79)
+#1 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(832): App\Controllers\Usuarios->formularioActualizarUsuario('2186078140101')
+#2 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\trabajoFinal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 23:07:36 --> Undefined variable $codigo
+#0 C:\xampp\htdocs\trabajoFinal\app\Controllers\Usuarios.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 79)
+#1 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(832): App\Controllers\Usuarios->formularioActualizarUsuario('2186078140101')
+#2 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\trabajoFinal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 23:07:40 --> Undefined variable $codigo
+#0 C:\xampp\htdocs\trabajoFinal\app\Controllers\Usuarios.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 79)
+#1 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(832): App\Controllers\Usuarios->formularioActualizarUsuario('2186078140101')
+#2 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\trabajoFinal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 23:08:01 --> Undefined variable $codigo
+#0 C:\xampp\htdocs\trabajoFinal\app\Controllers\Usuarios.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 79)
+#1 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(832): App\Controllers\Usuarios->formularioActualizarUsuario('2186078140101')
+#2 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\trabajoFinal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 23:10:04 --> Undefined variable $misEstudiantes
+#0 C:\xampp\htdocs\trabajoFinal\app\Views\tablas\usuarios\formActualizarUsuario.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\trabajoFinal\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\trabajoFinal\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\trabajoFinal\system\Common.php(1089): CodeIgniter\View\View->render('tablas/usuarios...', Array, true)
+#4 C:\xampp\htdocs\trabajoFinal\app\Controllers\Usuarios.php(80): view('tablas/usuarios...', Array)
+#5 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(832): App\Controllers\Usuarios->formularioActualizarUsuario('2186078140101')
+#6 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\trabajoFinal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-08 23:10:07 --> Undefined variable $misEstudiantes
+#0 C:\xampp\htdocs\trabajoFinal\app\Views\tablas\usuarios\formActualizarUsuario.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\trabajoFinal\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\trabajoFinal\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\trabajoFinal\system\Common.php(1089): CodeIgniter\View\View->render('tablas/usuarios...', Array, true)
+#4 C:\xampp\htdocs\trabajoFinal\app\Controllers\Usuarios.php(80): view('tablas/usuarios...', Array)
+#5 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(832): App\Controllers\Usuarios->formularioActualizarUsuario('2186078140101')
+#6 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\trabajoFinal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-08 23:11:25 --> Undefined variable $misEstudiantes
+#0 C:\xampp\htdocs\trabajoFinal\app\Views\tablas\usuarios\formActualizarUsuario.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\trabajoFinal\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\trabajoFinal\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\trabajoFinal\system\Common.php(1089): CodeIgniter\View\View->render('tablas/usuarios...', Array, true)
+#4 C:\xampp\htdocs\trabajoFinal\app\Controllers\Usuarios.php(80): view('tablas/usuarios...', Array)
+#5 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(832): App\Controllers\Usuarios->formularioActualizarUsuario('2186078140101')
+#6 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\trabajoFinal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-08 23:12:09 --> Undefined variable $misEstudiantes
+#0 C:\xampp\htdocs\trabajoFinal\app\Views\tablas\usuarios\formActualizarUsuario.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\trabajoFinal\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\trabajoFinal\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\trabajoFinal\system\Common.php(1089): CodeIgniter\View\View->render('tablas/usuarios...', Array, true)
+#4 C:\xampp\htdocs\trabajoFinal\app\Controllers\Usuarios.php(80): view('tablas/usuarios...', Array)
+#5 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(832): App\Controllers\Usuarios->formularioActualizarUsuario('2186078140101')
+#6 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\trabajoFinal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-08 23:12:53 --> Undefined variable $misEstudiantes
+#0 C:\xampp\htdocs\trabajoFinal\app\Views\tablas\usuarios\formActualizarUsuario.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\trabajoFinal\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\trabajoFinal\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\trabajoFinal\system\Common.php(1089): CodeIgniter\View\View->render('tablas/usuarios...', Array, true)
+#4 C:\xampp\htdocs\trabajoFinal\app\Controllers\Usuarios.php(80): view('tablas/usuarios...', Array)
+#5 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(832): App\Controllers\Usuarios->formularioActualizarUsuario('2186078140101')
+#6 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\trabajoFinal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-08 23:12:56 --> Undefined variable $misEstudiantes
+#0 C:\xampp\htdocs\trabajoFinal\app\Views\tablas\usuarios\formActualizarUsuario.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\trabajoFinal\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\trabajoFinal\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\trabajoFinal\system\Common.php(1089): CodeIgniter\View\View->render('tablas/usuarios...', Array, true)
+#4 C:\xampp\htdocs\trabajoFinal\app\Controllers\Usuarios.php(80): view('tablas/usuarios...', Array)
+#5 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(832): App\Controllers\Usuarios->formularioActualizarUsuario('2186078140101')
+#6 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\trabajoFinal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-08 23:12:59 --> Undefined variable $misEstudiantes
+#0 C:\xampp\htdocs\trabajoFinal\app\Views\tablas\usuarios\formActualizarUsuario.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\trabajoFinal\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\trabajoFinal\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\trabajoFinal\system\Common.php(1089): CodeIgniter\View\View->render('tablas/usuarios...', Array, true)
+#4 C:\xampp\htdocs\trabajoFinal\app\Controllers\Usuarios.php(80): view('tablas/usuarios...', Array)
+#5 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(832): App\Controllers\Usuarios->formularioActualizarUsuario('1009916131106')
+#6 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\trabajoFinal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-08 23:17:36 --> Undefined variable $misEstudiantes
+#0 C:\xampp\htdocs\trabajoFinal\app\Views\tablas\usuarios\formActualizarUsuario.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\trabajoFinal\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\trabajoFinal\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\trabajoFinal\system\Common.php(1089): CodeIgniter\View\View->render('tablas/usuarios...', Array, true)
+#4 C:\xampp\htdocs\trabajoFinal\app\Controllers\Usuarios.php(80): view('tablas/usuarios...', Array)
+#5 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(832): App\Controllers\Usuarios->formularioActualizarUsuario('2186078140101')
+#6 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\trabajoFinal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-08 23:18:41 --> Undefined variable $misEstudiantes
+#0 C:\xampp\htdocs\trabajoFinal\app\Views\tablas\usuarios\formActualizarUsuario.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 25)
+#1 C:\xampp\htdocs\trabajoFinal\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\trabajoFinal\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\trabajoFinal\system\Common.php(1089): CodeIgniter\View\View->render('tablas/usuarios...', Array, true)
+#4 C:\xampp\htdocs\trabajoFinal\app\Controllers\Usuarios.php(80): view('tablas/usuarios...', Array)
+#5 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(832): App\Controllers\Usuarios->formularioActualizarUsuario('1005309671217')
+#6 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\trabajoFinal\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\trabajoFinal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-05-08 23:18:43 --> Duplicate entry '1005309671217' for key 'PRIMARY'
